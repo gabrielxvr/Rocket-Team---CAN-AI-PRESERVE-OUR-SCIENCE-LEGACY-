@@ -1,6 +1,7 @@
 # Rocket Team - CAN AI PRESERVE OUR SCIENCE LEGACY?
 
-<img src="rockts 2 NESGRECO FILHO PNG.png" style="width:320px;height:200px;">
+<img src="rockts 2 NESGRECO FILHO PNG.png" style="width:320px;height:200px;"> <img src="rockts 2 png.png" style="width:320px;height:200px;">
+
 
 ## Who we are?
 Our team is composed of Brazilian students, from various regions of the country, but who live in the cities of Campinas (São Paulo) and Montes Claros (Minas Gerais). Students Gabriel Xavier, João Caramês, Isabela Beneti and Ygor Fagundes attend Science and Technology at Ilum School of Science while Yago Maia attends Information Systems at Unimontes and Gustavo Matos is currently participating at the MIT Data Analysis and Statistics MicroMasters at MITx.

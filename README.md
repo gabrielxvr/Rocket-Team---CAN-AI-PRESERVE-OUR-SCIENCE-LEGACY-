@@ -1,6 +1,6 @@
 # Rocket Team - CAN AI PRESERVE OUR SCIENCE LEGACY?
 
-<img src="rockts 2 NESGRECO FILHO PNG.png" style="width:320px;height:200px;"> <img src="rockts 2 png.png" style="width:320px;height:200px;">
+<img src="rockts 2 png.png" style="width:320px;height:200px;">
 
 
 ## Who we are?
@@ -8,3 +8,6 @@ Our team is composed of Brazilian students, from various regions of the country,
 
 ## What's going on here?
 This work is related to the Space Apps program, which proposed some tasks, of which our group selected the theme called "CAN AI PRESERVE OUR SCIENCE LEGACY" to conduct research. The contents present in this repository come from the resolution of the chosen task. To do this, we use some advanced tools to process NASA's NTRS API in order to make the articles present in it more accessible to the reader.
+
+## How to navigate our codes?
+Essa parte será colocada assim que o Git estiver organizado. :D
